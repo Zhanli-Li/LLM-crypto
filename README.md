@@ -4,7 +4,7 @@ LLM' transation data is `position.csv`
 
 Report is `Report.pdf`
 
-Code is `实证.ipynb`, there is a guideline in this notebook.
+Code is `code.ipynb`, there is a guideline in this notebook.
 
 Inspired by [Alpha Arena Benchmark](https://nof1.ai/)
 
